@@ -1,0 +1,1 @@
+This file contains 8 exercises on c project.
