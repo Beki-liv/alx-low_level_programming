@@ -2,6 +2,7 @@
 
 /**
  * _isupper - checks for uppercase character
+ * @c - the character to be checked
  * Return - 1 if successful, 0 otherwise
  */
 
@@ -9,7 +10,7 @@ int _isupper(int c)
 {
   char c;
 
-  if (c > 64 && c < 91)
+  if (c >= "A" && c <= "Z")
     {
       return 1;
     }
