@@ -1,0 +1,1 @@
+This repo contains projects about pointer, array and string.
