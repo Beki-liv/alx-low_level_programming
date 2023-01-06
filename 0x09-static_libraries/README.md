@@ -1,0 +1,1 @@
+This directory has a project on static library.
